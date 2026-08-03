@@ -1,19 +1,12 @@
-# Módulo 01 — Cadastro
+# Cenário 01 — Cadastro
 
-Esse módulo cobre os testes relacionados ao cadastro de novos 
+**Descrição:** Esse módulo cobre os testes relacionados ao cadastro de novos 
 usuários no DemoBlaze. Testei o fluxo esperado e também 
 situações onde o usuário pode errar ou tentar burlar o sistema.
 
 ---
 
-## Cenário 01: Cadastro na plataforma
-
-**Descrição:** Validar a funcionalidade de cadastro em 
-diferentes situações.
-
----
-
-### C01-CT01 — Cadastro com dados válidos
+## C01-CT01 — Cadastro com dados válidos
 
 | Campo | Detalhe |
 |-------|---------|
@@ -43,7 +36,7 @@ diferentes situações.
 
 ---
 
-### C01-CT02 — Cadastro com username já existente
+## C01-CT02 — Cadastro com username já existente
 
 | Campo | Detalhe |
 |-------|---------|
@@ -73,7 +66,7 @@ diferentes situações.
 
 ---
 
-### C01-CT03 — Cadastro com campos vazios
+## C01-CT03 — Cadastro com campos vazios
 
 | Campo | Detalhe |
 |-------|---------|
