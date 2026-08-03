@@ -36,8 +36,8 @@ consolidar os resultados.
 
 ## Documentação do projeto
 
-- 📋 [Requisitos do Projeto](documentos/1-Requisitos-do-Projeto.md)
-- 🗺️ [Plano de Testes](documentos/2-Plano-de-Testes.md)
+- 📋 [Requisitos do Projeto](documentos/1.Requisitos-do-Projeto.md)
+- 🗺️ [Plano de Testes](documentos/2.Plano-de-Testes.md)
 - ✅ [Cenários e Casos de Teste](documentos/3-Cenarios-e-Casos-de-Teste.md)
 - 🐛 [Relatório de Bugs](documentos/4-Relatorio-de-Bugs.md)
 - 📊 [Resultados dos Testes](documentos/5-Resultados-dos-Testes.md)
