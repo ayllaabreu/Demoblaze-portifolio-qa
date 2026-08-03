@@ -2,9 +2,7 @@
 
 ## Sobre o projeto
 
-Esse repositório documenta meu trabalho de testes manuais 
-no DemoBlaze, uma loja virtual de demonstração que vende 
-eletrônicos como celulares, laptops e monitores.
+Esse repositório documenta meu trabalho de testes manuais no DemoBlaze, uma loja virtual de demonstração que vende eletrônicos como celulares, laptops e monitores.
 
 O objetivo foi passar pelo ciclo completo de testes: 
 mapear os requisitos, planejar o que testar, escrever os 
