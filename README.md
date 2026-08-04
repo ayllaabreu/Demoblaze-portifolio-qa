@@ -29,7 +29,7 @@ consolidar os resultados.
 ## Resultados
 
 | Total de casos de teste | ✅ Aprovados | ❌ Reprovados | 🐛 Bugs encontrados |
-|------------------------|-------------|--------------|-------------------|
+|:------------------------:|-------------|--------------|-------------------|
 | 32 | | | |
 
 ---
