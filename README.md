@@ -36,11 +36,11 @@ consolidar os resultados.
 
 ## Documentação do projeto
 
-- 📋 [Requisitos do Projeto](Demoblaze-portifolio-qa/1. Requisitos do Projeto/Requisitos do Projeto.md)
-- 🗺️ [Plano de Testes](Demoblaze-portifolio-qa/2.Plano-de-Testes.md)
-- ✅ [Cenários e Casos de Teste](documentos/3-Cenarios-e-Casos-de-Teste.md)
-- 🐛 [Relatório de Bugs](documentos/4-Relatorio-de-Bugs.md)
-- 📊 [Resultados dos Testes](documentos/5-Resultados-dos-Testes.md)
+- 📋 [Requisitos do Projeto](1-Requisitos-do-Projeto/Requisitos-do-Projeto.md)
+- 🗺️ [Plano de Testes](2-Plano-de-Testes/Plano-de-Testes.md)
+- ✅ [Cenários e Casos de Teste](3-Cenarios-e-Casos-de-Teste)
+- 🐛 [Relatório de Bugs](4-Relatorio-de-Bugs/Relatorio-de-Bugs.md)
+- 📊 [Resultados dos Testes](5-Resultados-dos-Testes/Resultados-dos-Testes.md)
 
 ---
 
