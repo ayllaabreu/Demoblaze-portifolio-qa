@@ -36,7 +36,7 @@ consolidar os resultados.
 
 ## Documentação do projeto
 
-- 📋 [Requisitos do Projeto](documentos/1. Requisitos do Projeto/Requisitos do Projeto.md)
+- 📋 [Requisitos do Projeto](Demoblaze-portifolio-qa/1. Requisitos do Projeto/Requisitos do Projeto.md)
 - 🗺️ [Plano de Testes](Demoblaze-portifolio-qa/2.Plano-de-Testes.md)
 - ✅ [Cenários e Casos de Teste](documentos/3-Cenarios-e-Casos-de-Teste.md)
 - 🐛 [Relatório de Bugs](documentos/4-Relatorio-de-Bugs.md)
