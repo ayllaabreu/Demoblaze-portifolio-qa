@@ -116,4 +116,10 @@ campos vazios — e também o fluxo de logout.
 | 4 | ENTÃO o sistema deve me avisar que os campos são obrigatórios |
 
 | Campo | Detalhe |
-|--
+|-------|---------|
+| **Critérios de aceitação** | O sistema não deve autenticar e deve informar que as credenciais estão erradas |
+| **Resultado esperado** | Mensagem de erro exibida e usuário permanece na tela de login |
+| **Resultado real** | (preencher durante a execução) |
+| **Evidência** | (inserir print ou GIF após execução) |
+| **Status** | ⏳ Não executado |
+
