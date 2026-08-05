@@ -49,12 +49,13 @@ situações onde o usuário pode errar ou tentar burlar o sistema.
 
 | # | Passo |
 |---|-------|
-| 1 | DADO que já existe um usuário cadastrado com o username "aylla_teste" |
-| 2 | E estou na tela de cadastro |
-| 3 | E preencho o campo "Username" com "aylla_teste" |
-| 4 | E preencho o campo "Password" com qualquer senha |
-| 5 | QUANDO clico no botão "Sign up" |
-| 6 | ENTÃO devo ver uma mensagem informando que o usuário já existe |
+| 1 | DADO que estou na página inicial do DemoBlaze |
+| 2 | E já existe um usuário cadastrado com o username "aylla_teste" |
+| 3 | E clico em "Sign up" no menu |
+| 4 | E preencho o campo "Username" com "aylla_teste" |
+| 5 | E preencho o campo "Password" com qualquer senha |
+| 6 | QUANDO clico no botão "Sign up" |
+| 7 | ENTÃO devo ver uma mensagem informando que o usuário já existe |
 
 | Campo | Detalhe |
 |-------|---------|
@@ -79,15 +80,17 @@ situações onde o usuário pode errar ou tentar burlar o sistema.
 
 | # | Passo |
 |---|-------|
-| 1 | DADO que abri o formulário de cadastro |
-| 2 | E deixei os campos "Username" e "Password" em branco |
-| 3 | QUANDO clico no botão "Sign up" |
-| 4 | ENTÃO o sistema deve me avisar que os campos são obrigatórios |
+| 1 | DADO que estou na página inicial do DemoBlaze |
+| 2 | E clico em "Sign up" no menu |
+| 3 | E deixo o campo "Username" em branco |
+| 4 | E deixo o campo "Password" em branco |
+| 5 | QUANDO clico no botão "Sign up" |
+| 6 | ENTÃO o sistema deve me avisar que os campos são obrigatórios |
 
 | Campo | Detalhe |
 |-------|---------|
 | **Critérios de aceitação** | O sistema deve bloquear o cadastro e exibir aviso de campo obrigatório |
 | **Resultado esperado** | Alerta informando que os campos precisam ser preenchidos |
-| **Resultado real** | (preencher durante a execução) |
-| **Evidência** | (inserir print ou GIF após execução) |
-| **Status** | ⏳ Não executado |
+| **Resultado real** | Mensagem "Please fill out Username and Password." exibida corretamente |
+| **Evidência** | ![C01-CT03](../../6-Evidencias/C01-Cadastro/C01-CT03-campos-vazios.png) |
+| **Status** | ✅ Aprovado |
