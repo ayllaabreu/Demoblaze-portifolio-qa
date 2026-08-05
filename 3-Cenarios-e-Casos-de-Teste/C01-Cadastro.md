@@ -31,7 +31,7 @@ situações onde o usuário pode errar ou tentar burlar o sistema.
 | **Critérios de aceitação** | O sistema deve exibir uma mensagem confirmando o cadastro |
 | **Resultado esperado** | Mensagem de sucesso exibida após o clique em "Sign up" |
 | **Resultado real** | Mensagem "Sign up successful." exibida com sucesso |
-| **Evidência** | ![C01-CT01](6-Evidencias/C01-Cadastro/C01-CT01-cadastro-valido.png) |
+| **Evidência** | ![C01-CT01](../../6-Evidencias/C01-Cadastro/C01-CT01-cadastro-valido.png) |
 | **Status** | ✅ Aprovado |
 
 ---
