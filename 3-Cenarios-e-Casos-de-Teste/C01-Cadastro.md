@@ -92,5 +92,5 @@ situações onde o usuário pode errar ou tentar burlar o sistema.
 | **Critérios de aceitação** | O sistema deve bloquear o cadastro e exibir aviso de campo obrigatório |
 | **Resultado esperado** | Alerta informando que os campos precisam ser preenchidos |
 | **Resultado real** | Mensagem "Please fill out Username and Password." exibida corretamente |
-| **Evidência** | ![C01-CT03](../../6-Evidencias/C01-Cadastro/C01-CT03-campos-vazios.png) |
+| **Evidência** | [C01-CT03-campos-vazios.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C01-Cadastro/C01-CT03-campos-vazios.png) |
 | **Status** | ✅ Aprovado |
