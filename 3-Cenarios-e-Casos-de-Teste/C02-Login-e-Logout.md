@@ -32,9 +32,9 @@ campos vazios — e também o fluxo de logout.
 |-------|---------|
 | **Critérios de aceitação** | O sistema deve autenticar o usuário e exibir seu nome no menu |
 | **Resultado esperado** | Usuário logado e nome visível no menu de navegação |
-| **Resultado real** | (preencher durante a execução) |
-| **Evidência** | (inserir print ou GIF após execução) |
-| **Status** | ⏳ Não executado |
+| **Resultado real** | Usuário logado com sucesso. Mensagem "Welcome aylla_teste" exibida no menu de navegação |
+| **Evidência** | [C02-CT01-login-valido.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C02-Login-e-Logout/C02-CT01-login-valido.png) |
+| **Status** | ✅ Aprovado |
 
 ---
 
