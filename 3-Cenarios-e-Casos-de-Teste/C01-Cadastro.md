@@ -62,7 +62,7 @@ situações onde o usuário pode errar ou tentar burlar o sistema.
 | **Critérios de aceitação** | O sistema não deve permitir o cadastro e deve informar o motivo |
 | **Resultado esperado** | Mensagem de erro informando que o username já está em uso |
 | **Resultado real** | Mensagem "This user already exist." exibida corretamente |
-| **Evidência** | ![C01-CT02](../../6-Evidencias/C01-Cadastro/C01-CT02-username-existente.png) |
+| **Evidência** | [C01-CT02-username-existente.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C01-Cadastro/C01-CT02-username-existente.png) |
 | **Status** | ✅ Aprovado |
 
 ---
