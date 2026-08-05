@@ -34,8 +34,8 @@ Vou focar nos fluxos que um usuário real usaria no dia a dia:
 | Item | Detalhe |
 |------|---------|
 | URL | https://www.demoblaze.com |
-| Navegador | Google Chrome |
-| Sistema Operacional | Windows 11 |
+| Navegador | Google Chrome 151.0.7922.76 (Versão oficial) |
+| Sistema Operacional | Windows 11 64 bits |
 | Tipo de teste | Manual e exploratório |
 
 ---
