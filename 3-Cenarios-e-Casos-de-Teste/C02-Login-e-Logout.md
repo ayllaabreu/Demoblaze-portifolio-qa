@@ -52,11 +52,12 @@ campos vazios — e também o fluxo de logout.
 | # | Passo |
 |---|-------|
 | 1 | DADO que tenho uma conta cadastrada no DemoBlaze |
-| 2 | E estou na tela de login |
-| 3 | E preencho o campo "Username" com meu username correto |
-| 4 | E preencho o campo "Password" com uma senha errada |
-| 5 | QUANDO clico no botão "Log in" |
-| 6 | ENTÃO devo ver uma mensagem de erro de credenciais inválidas |
+| 2 | E estou na página inicial do DemoBlaze |
+| 3 | E clico em "Log in" no menu |
+| 4 | E preencho o campo "Username" com meu username correto |
+| 5 | E preencho o campo "Password" com uma senha errada |
+| 6 | QUANDO clico no botão "Log in" |
+| 7 | ENTÃO devo ver uma mensagem de erro de credenciais inválidas |
 
 | Campo | Detalhe |
 |-------|---------|
