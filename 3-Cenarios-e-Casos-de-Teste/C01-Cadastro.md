@@ -49,8 +49,8 @@ situações onde o usuário pode errar ou tentar burlar o sistema.
 
 | # | Passo |
 |---|-------|
-| 1 | DADO que estou na página inicial do DemoBlaze |
-| 2 | E já existe um usuário cadastrado com o username "aylla_teste" |
+| 1 | DADO que já existe um usuário cadastrado com o username "aylla_teste" |
+| 2 | E estou na página inicial do DemoBlaze |
 | 3 | E clico em "Sign up" no menu |
 | 4 | E preencho o campo "Username" com "aylla_teste" |
 | 5 | E preencho o campo "Password" com qualquer senha |
