@@ -82,11 +82,12 @@ campos vazios — e também o fluxo de logout.
 
 | # | Passo |
 |---|-------|
-| 1 | DADO que estou na tela de login |
-| 2 | E preencho o campo "Username" com um username inexistente |
-| 3 | E preencho o campo "Password" com qualquer senha |
-| 4 | QUANDO clico no botão "Log in" |
-| 5 | ENTÃO devo ver uma mensagem de erro |
+| 1 | DADO que estou na página inicial do DemoBlaze |
+| 2 | E clico em "Log in" no menu |
+| 3 | E preencho o campo "Username" com um username inexistente |
+| 4 | E preencho o campo "Password" com qualquer senha |
+| 5 | QUANDO clico no botão "Log in" |
+| 6 | ENTÃO devo ver uma mensagem de erro |
 
 | Campo | Detalhe |
 |-------|---------|
@@ -111,10 +112,11 @@ campos vazios — e também o fluxo de logout.
 
 | # | Passo |
 |---|-------|
-| 1 | DADO que abri a tela de login |
-| 2 | E deixei os campos "Username" e "Password" em branco |
-| 3 | QUANDO clico no botão "Log in" |
-| 4 | ENTÃO o sistema deve me avisar que os campos são obrigatórios |
+| 1 | DADO que estou na página inicial do DemoBlaze |
+| 2 | E clico em "Log in" no menu |
+| 3 | E deixei os campos "Username" e "Password" em branco |
+| 4 | QUANDO clico no botão "Log in" |
+| 5 | ENTÃO o sistema deve me avisar que os campos são obrigatórios |
 
 | Campo | Detalhe |
 |-------|---------|
