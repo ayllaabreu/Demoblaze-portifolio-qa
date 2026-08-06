@@ -95,6 +95,5 @@ para os cenários negativos:
 | Ferramenta | Para quê |
 |-----------|---------|
 | Google Chrome | Executar os testes |
-| LICEcap | Gravar evidências em GIF |
 | GitHub | Documentar e versionar o portfólio |
 | Markdown | Escrever toda a documentação |
