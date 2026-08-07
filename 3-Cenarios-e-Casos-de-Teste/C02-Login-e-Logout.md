@@ -84,7 +84,7 @@ campos vazios — e também o fluxo de logout.
 |---|-------|
 | 1 | DADO que estou na página inicial do DemoBlaze |
 | 2 | E clico em "Log in" no menu |
-| 3 | E preencho o campo "Username" com "usuario_inexistente" |
+| 3 | E preencho o campo "Username" com "xyzusuario999teste" |
 | 4 | E preencho o campo "Password" com "senha123" |
 | 5 | QUANDO clico no botão "Log in" |
 | 6 | ENTÃO devo ver uma mensagem de erro informando que o usuário não foi encontrado |
@@ -93,8 +93,8 @@ campos vazios — e também o fluxo de logout.
 |-------|---------|
 | **Critérios de aceitação** | O sistema não deve autenticar e deve informar que o usuário não foi encontrado |
 | **Resultado esperado** | Mensagem de erro exibida informando credenciais inválidas |
-| **Resultado real** | (preencher durante a execução) |
-| **Evidência** | (inserir print ou GIF após execução) |
+| **Resultado real** | Mensagem de erro "User does not exist." exibida com sucesso e usuário permanece na tela de login |
+| **Evidência** | [C02-CT03-usuario-inexistente.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C02-Login-e-Logout/C02-CT03-usuario-inexistente.png) |
 | **Status** | ⏳ Não executado |
 
 ---
@@ -126,3 +126,31 @@ campos vazios — e também o fluxo de logout.
 | **Evidência** | [C02-CT04-campos-vazios.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C02-Login-e-Logout/C02-CT04-campos-vazios.png) |
 | **Status** | ✅ Aprovado |
 
+---
+
+## C02-CT05 — Logout
+
+| Campo | Detalhe |
+|-------|---------|
+| **ID** | C02-CT05 |
+| **Descrição** | Usuário encerra a sessão pelo menu de navegação |
+| **Pré-condições** | Usuário deve estar logado no sistema |
+| **Prioridade** | Alta |
+
+**Passos:**
+
+| # | Passo |
+|---|-------|
+| 1 | DADO que estou logada no DemoBlaze |
+| 2 | E meu nome aparece no menu de navegação |
+| 3 | QUANDO clico em "Log out" no menu |
+| 4 | ENTÃO meu nome deve desaparecer do menu |
+| 5 | E as opções "Sign up" e "Log in" devem voltar a aparecer |
+
+| Campo | Detalhe |
+|-------|---------|
+| **Critérios de aceitação** | O sistema deve encerrar a sessão e retornar ao estado de usuário deslogado |
+| **Resultado esperado** | Menu exibe "Sign up" e "Log in" após o logout |
+| **Resultado real** | (preencher durante a execução) |
+| **Evidência** | (inserir print ou GIF após execução) |
+| **Status** | ⏳ Não executado |
