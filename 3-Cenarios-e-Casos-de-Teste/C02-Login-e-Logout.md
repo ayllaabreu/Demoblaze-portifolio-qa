@@ -95,7 +95,7 @@ campos vazios — e também o fluxo de logout.
 | **Resultado esperado** | Mensagem de erro exibida informando credenciais inválidas |
 | **Resultado real** | Mensagem de erro "User does not exist." exibida com sucesso e usuário permanece na tela de login |
 | **Evidência** | [C02-CT03-usuario-inexistente.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C02-Login-e-Logout/C02-CT03-usuario-inexistente.png) |
-| **Status** | ⏳ Não executado |
+| **Status** | ✅ Aprovado |
 
 ---
 
