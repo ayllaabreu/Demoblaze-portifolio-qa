@@ -122,7 +122,7 @@ campos vazios — e também o fluxo de logout.
 |-------|---------|
 | **Critérios de aceitação** | O sistema não deve autenticar e deve informar que as credenciais estão erradas |
 | **Resultado esperado** | Mensagem de erro exibida e usuário permanece na tela de login |
-| **Resultado real** | (preencher durante a execução) |
-| **Evidência** | (inserir print ou GIF após execução) |
-| **Status** | ⏳ Não executado |
+| **Resultado real** | Mensagem de erro "Please fill out Username and Password" exibida com sucesso e usuário permanece na tela de login |
+| **Evidência** | [C02-CT04-campos-vazios.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C02-Login-e-Logout/C02-CT04-campos-vazios.png) |
+| **Status** | ✅ Aprovado |
 
