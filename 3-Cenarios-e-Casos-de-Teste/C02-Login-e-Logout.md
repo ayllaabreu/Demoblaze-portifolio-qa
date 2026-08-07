@@ -84,10 +84,10 @@ campos vazios — e também o fluxo de logout.
 |---|-------|
 | 1 | DADO que estou na página inicial do DemoBlaze |
 | 2 | E clico em "Log in" no menu |
-| 3 | E preencho o campo "Username" com um username inexistente |
-| 4 | E preencho o campo "Password" com qualquer senha |
+| 3 | E preencho o campo "Username" com "usuario_inexistente" |
+| 4 | E preencho o campo "Password" com "senha123" |
 | 5 | QUANDO clico no botão "Log in" |
-| 6 | ENTÃO devo ver uma mensagem de erro |
+| 6 | ENTÃO devo ver uma mensagem de erro informando que o usuário não foi encontrado |
 
 | Campo | Detalhe |
 |-------|---------|
