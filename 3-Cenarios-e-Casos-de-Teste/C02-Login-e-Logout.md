@@ -151,6 +151,6 @@ campos vazios — e também o fluxo de logout.
 |-------|---------|
 | **Critérios de aceitação** | O sistema deve encerrar a sessão e retornar ao estado de usuário deslogado |
 | **Resultado esperado** | Menu exibe "Sign up" e "Log in" após o logout |
-| **Resultado real** | (preencher durante a execução) |
-| **Evidência** | (inserir print ou GIF após execução) |
-| **Status** | ⏳ Não executado |
+| **Resultado real** | Logout realizado com sucesso. Menu voltou a exibir "Log in" e "Sign up" |
+| **Evidência** | [Antes](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C02-Login-e-Logout/C02-CT05-logout-antes.png) / [Depois](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C02-Login-e-Logout/C02-CT05-logout-depois.png) |
+| **Status** | ✅ Aprovado |
