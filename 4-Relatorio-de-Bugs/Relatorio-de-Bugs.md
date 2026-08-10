@@ -3,7 +3,7 @@
 | Campo | Detalhe |
 |-------|---------|
 | **Título** | [Catálogo] Categoria selecionada não é destacada visualmente no menu lateral |
-| **Ambiente** | Chrome 151.0.7922.76 (Versão oficial) 64 bits, Windows 11, demoblaze.com |
+| **Ambiente** | Chrome 151.0.7922.109 (Versão oficial) 64 bits, Windows 11, demoblaze.com |
 | **Módulo** | Catálogo e Filtros |
 | **Severidade** | 🟢 Baixa |
 | **Status** | Aberto |
