@@ -29,9 +29,9 @@ filtro realmente exibe apenas os itens da categoria selecionada.
 |-------|---------|
 | **Critérios de aceitação** | Os produtos devem ser exibidos com nome, foto e preço visíveis |
 | **Resultado esperado** | Lista de produtos carregada corretamente na página inicial |
-| **Resultado real** | (preencher durante a execução) |
-| **Evidência** | (inserir print ou GIF após execução) |
-| **Status** | ⏳ Não executado |
+| **Resultado real** | Produtos exibidos corretamente com nome, foto e preço na página inicia) |
+| **Evidência** | [C03-CT01-produtos-pagina-inicial.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C03-Catalogo-e-Filtros/C03-CT01-produtos-pagina-inicial.png) |
+| **Status** | ✅ Aprovado |
 
 ---
 
