@@ -20,5 +20,4 @@
 |-------|---------|
 | **Resultado Atual** | Nenhum destaque visual aplicado à categoria e URL permanece como demoblaze.com/# |
 | **Resultado Esperado** | Categoria selecionada destacada visualmente e URL atualizada |
-| **Severidade** | 🟢 Baixa |
 | **Evidência** | [BUG-001-categoria-sem-destaque.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C03-Catalogo-e-Filtros/BUG-001-categoria-sem-destaque.png) |
