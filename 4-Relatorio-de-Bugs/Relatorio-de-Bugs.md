@@ -3,21 +3,22 @@
 | Campo | Detalhe |
 |-------|---------|
 | **Título** | [Catálogo] Categoria selecionada não é destacada visualmente no menu lateral |
+| **Ambiente** | Chrome 127, Windows 11, demoblaze.com |
 | **Módulo** | Catálogo e Filtros |
 | **Severidade** | 🟢 Baixa |
 | **Status** | Aberto |
 
-**Passos para reproduzir:**
+**Passos para Reproduzir:**
 
 | # | Passo |
 |---|-------|
-| 1 | DADO que estou na página inicial do DemoBlaze |
-| 2 | QUANDO clico em qualquer categoria no menu lateral (Phones, Laptops ou Monitors) |
-| 3 | ENTÃO a categoria clicada não é destacada visualmente |
-| 4 | E a URL não é atualizada para indicar a categoria selecionada |
+| 1 | Acessar demoblaze.com |
+| 2 | Clicar em qualquer categoria no menu lateral |
+| 3 | Observar o menu lateral e a URL após o clique |
 
 | Campo | Detalhe |
 |-------|---------|
-| **Resultado esperado** | A categoria selecionada deve ser destacada visualmente e a URL deve refletir a navegação atual |
-| **Resultado atual** | Nenhum destaque visual é aplicado à categoria selecionada e a URL permanece como demoblaze.com/# |
+| **Resultado Atual** | Nenhum destaque visual aplicado à categoria e URL permanece como demoblaze.com/# |
+| **Resultado Esperado** | Categoria selecionada destacada visualmente e URL atualizada |
+| **Severidade** | 🟢 Baixa |
 | **Evidência** | [BUG-001-categoria-sem-destaque.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C03-Catalogo-e-Filtros/BUG-001-categoria-sem-destaque.png) |
