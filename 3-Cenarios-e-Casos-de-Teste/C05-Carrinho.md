@@ -1,4 +1,4 @@
-# Cenário 05 — Carrinho
+# Cenário 05 - Carrinho
 
 **Descrição:** Esse módulo cobre os testes do carrinho de 
 compras do DemoBlaze. Validei desde a adição de produtos 
@@ -7,7 +7,7 @@ comportamento do carrinho para usuários não logados.
 
 ---
 
-## C05-CT01 — Adicionar um produto ao carrinho
+## C05-CT01 - Adicionar um produto ao carrinho
 
 | Campo | Detalhe |
 |-------|---------|
@@ -36,7 +36,7 @@ comportamento do carrinho para usuários não logados.
 
 ---
 
-## C05-CT02 — Adicionar mais de um produto ao carrinho
+## C05-CT02 - Adicionar mais de um produto ao carrinho
 
 | Campo | Detalhe |
 |-------|---------|
@@ -65,7 +65,7 @@ comportamento do carrinho para usuários não logados.
 
 ---
 
-## C05-CT03 — Verificar o total do carrinho
+## C05-CT03 - Verificar o total do carrinho
 
 | Campo | Detalhe |
 |-------|---------|
@@ -93,7 +93,7 @@ comportamento do carrinho para usuários não logados.
 
 ---
 
-## C05-CT04 — Remover um produto do carrinho
+## C05-CT04 - Remover um produto do carrinho
 
 | Campo | Detalhe |
 |-------|---------|
@@ -121,7 +121,7 @@ comportamento do carrinho para usuários não logados.
 
 ---
 
-## C05-CT05 — Verificar carrinho vazio após remover todos os produtos
+## C05-CT05 - Verificar carrinho vazio após remover todos os produtos
 
 | Campo | Detalhe |
 |-------|---------|
@@ -149,7 +149,7 @@ comportamento do carrinho para usuários não logados.
 
 ---
 
-## C05-CT06 — Acessar o carrinho sem estar logada
+## C05-CT06 - Acessar o carrinho sem estar logada
 
 | Campo | Detalhe |
 |-------|---------|
