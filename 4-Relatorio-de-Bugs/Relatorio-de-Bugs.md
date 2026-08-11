@@ -31,7 +31,7 @@
 | **Título** | [Carrinho] Botão "Place Order" permanece visível com carrinho vazio e total não é exibido |
 | **Ambiente** | Chrome 151.0.7922.109 (Versão oficial) 64 bits, Windows 11, demoblaze.com |
 | **Módulo** | Carrinho |
-| **Severidade** | 🟡 Média |
+| **Severidade** | 🔴 Alta |
 | **Status** | Aberto |
 
 **Passos para Reproduzir:**
@@ -39,13 +39,14 @@
 | # | Passo |
 |---|-------|
 | 1 | Acessar demoblaze.com |
-| 2 | Adicionar qualquer produto ao carrinho |
-| 3 | Acessar o carrinho |
-| 4 | Clicar em "Delete" para remover o produto |
+| 2 | Clicar em "Cart" no menu sem ter adicionado nenhum produto |
+| 3 | Observar que o total não é exibido e o botão "Place Order" está visível |
+| 4 | Clicar em "Place Order" |
+| 5 | Observar que o formulário de pedido abre mesmo sem produtos no carrinho |
 
 | Campo | Detalhe |
 |-------|---------|
-| **Resultado Atual** | Carrinho fica vazio sem exibir mensagem de "carrinho vazio", total desaparece e botão "Place Order" permanece visível |
+| **Resultado Atual** | Carrinho fica vazio sem exibir mensagem de "carrinho vazio", total desaparece, botão "Place Order" permanece visível e ao clicar abre o formulário de pedido mesmo sem produtos no carrinho |
 | **Resultado Esperado** | Sistema deve exibir mensagem informando que o carrinho está vazio e desabilitar ou ocultar o botão "Place Order" |
 | **Evidência** | [Carrinho vazio sem total](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C05-Carrinho/C05-CT05-carrinho-vazio.png) / [Formulário aberto sem produtos](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C05-Carrinho/C05-CT05-place-order-carrinho-vazio.png) |
 
