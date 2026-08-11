@@ -47,5 +47,5 @@
 |-------|---------|
 | **Resultado Atual** | Carrinho fica vazio sem exibir mensagem de "carrinho vazio", total desaparece e botão "Place Order" permanece visível |
 | **Resultado Esperado** | Sistema deve exibir mensagem informando que o carrinho está vazio e desabilitar ou ocultar o botão "Place Order" |
-| **Evidência** | [C05-CT05-carrinho-vazio.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C05-Carrinho/C05-CT05-carrinho-vazio.png) / [Formulário aberto sem produtos](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C05-Carrinho/C05-CT05-place-order-carrinho-vazio.png) |
+| **Evidência** | [Carrinho vazio sem total](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C05-Carrinho/C05-CT05-carrinho-vazio.png) / [Formulário aberto sem produtos](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C05-Carrinho/C05-CT05-place-order-carrinho-vazio.png) |
 
