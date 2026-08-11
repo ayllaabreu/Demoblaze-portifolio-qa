@@ -144,7 +144,7 @@ comportamento do carrinho para usuários não logados.
 | **Critérios de aceitação** | O carrinho deve indicar que está vazio de forma clara |
 | **Resultado esperado** | Carrinho vazio exibido sem erros visuais |
 | **Resultado real** | iPhone 6 removido com sucesso, porém o carrinho não exibe mensagem de "carrinho vazio" e o botão "Place Order" permanece visível sem produtos |
-| **Evidência** | [C05-CT05-carrinho-vazio.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C05-Carrinho/C05-CT05-carrinho-vazio.png) |
+| **Evidência** | [C05-CT05-carrinho-vazio.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C05-Carrinho/C05-CT05-carrinho-vazio.png) / [Formulário aberto sem produtos](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C05-Carrinho/C05-CT05-place-order-carrinho-vazio.png) |
 | **Status** | ❌ Reprovado |
 
 ---
