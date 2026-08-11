@@ -58,9 +58,9 @@ filtro realmente exibe apenas os itens da categoria selecionada.
 |-------|---------|
 | **Critérios de aceitação** | Apenas produtos da categoria Phones devem aparecer após o filtro |
 | **Resultado esperado** | Lista atualizada exibindo somente celulares |
-| **Resultado real** | (preencher durante a execução) |
-| **Evidência** | (inserir print ou GIF após execução) |
-| **Status** | ⏳ Não executado |
+| **Resultado real** | Filtro aplicado corretamente, exibindo apenas produtos da categoria Phones |
+| **Evidência** | [C03-CT02-filtro-phones.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C03-Catalogo-e-Filtros/C03-CT02-filtro-phones.png) |
+| **Status** | ✅ Aprovado |
 
 ---
 
@@ -87,10 +87,9 @@ filtro realmente exibe apenas os itens da categoria selecionada.
 |-------|---------|
 | **Critérios de aceitação** | Apenas produtos da categoria Laptops devem aparecer após o filtro |
 | **Resultado esperado** | Lista atualizada exibindo somente notebooks |
-| **Resultado real** | (preencher durante a execução) |
-| **Evidência** | (inserir print ou GIF após execução) |
-| **Status** | ⏳ Não executado |
-
+| **Resultado real** | Filtro aplicado corretamente, exibindo apenas produtos da categoria Laptops |
+| **Evidência** | [C03-CT03-filtro-laptops.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C03-Catalogo-e-Filtros/C03-CT03-filtro-laptops.png) |
+| **Status** | ✅ Aprovado |
 ---
 
 ## C03-CT04 — Filtrar produtos por Monitors
