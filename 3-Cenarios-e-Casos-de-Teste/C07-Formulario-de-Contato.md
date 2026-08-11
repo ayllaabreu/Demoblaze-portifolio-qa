@@ -1,4 +1,4 @@
-# Cenário 07 — Formulário de Contato
+# Cenário 07 - Formulário de Contato
 
 **Descrição:** Esse módulo valida o formulário de contato 
 do DemoBlaze. Apesar de ser uma funcionalidade simples, 
@@ -8,7 +8,7 @@ correto.
 
 ---
 
-## C07-CT01 — Enviar mensagem com todos os campos preenchidos
+## C07-CT01 - Enviar mensagem com todos os campos preenchidos
 
 | Campo | Detalhe |
 |-------|---------|
@@ -39,7 +39,7 @@ correto.
 
 ---
 
-## C07-CT02 — Tentar enviar formulário com todos os campos vazios
+## C07-CT02 - Tentar enviar formulário com todos os campos vazios
 
 | Campo | Detalhe |
 |-------|---------|
@@ -67,7 +67,7 @@ correto.
 
 ---
 
-## C07-CT03 — Tentar enviar formulário com e-mail inválido
+## C07-CT03 - Tentar enviar formulário com e-mail inválido
 
 | Campo | Detalhe |
 |-------|---------|
@@ -96,7 +96,7 @@ correto.
 
 ---
 
-## C07-CT04 — Tentar enviar formulário apenas com o campo mensagem vazio
+## C07-CT04 - Tentar enviar formulário apenas com o campo mensagem vazio
 
 | Campo | Detalhe |
 |-------|---------|
@@ -126,7 +126,7 @@ correto.
 
 ---
 
-## C07-CT05 — Fechar o formulário de contato sem enviar
+## C07-CT05 - Fechar o formulário de contato sem enviar
 
 | Campo | Detalhe |
 |-------|---------|
