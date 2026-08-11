@@ -30,9 +30,9 @@ comportamento do carrinho para usuários não logados.
 |-------|---------|
 | **Critérios de aceitação** | O produto deve aparecer no carrinho após ser adicionado |
 | **Resultado esperado** | Confirmação de adição exibida e produto listado no carrinho |
-| **Resultado real** | (preencher durante a execução) |
-| **Evidência** | (inserir print ou GIF após execução) |
-| **Status** | ⏳ Não executado |
+| **Resultado real** | Mensagem "Product added" exibida após clicar em "Add to cart" no Nexus 6 |
+| **Evidência** | [C05-CT01-adicionar-produto.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C05-Carrinho/C05-CT01-adicionar-produto.png) |
+| **Status** | ✅ Aprovado |
 
 ---
 
