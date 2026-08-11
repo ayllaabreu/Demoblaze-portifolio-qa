@@ -1,4 +1,4 @@
-# Cenário 02 — Login e Logout
+# Cenário 02 - Login e Logout
 
 **Descrição:** Esse módulo cobre os testes de autenticação 
 do DemoBlaze. Validei o login com diferentes situações — 
@@ -7,7 +7,7 @@ campos vazios — e também o fluxo de logout.
 
 ---
 
-## C02-CT01 — Login com credenciais válidas
+## C02-CT01 - Login com credenciais válidas
 
 | Campo | Detalhe |
 |-------|---------|
@@ -38,7 +38,7 @@ campos vazios — e também o fluxo de logout.
 
 ---
 
-## C02-CT02 — Login com senha incorreta
+## C02-CT02 - Login com senha incorreta
 
 | Campo | Detalhe |
 |-------|---------|
@@ -69,7 +69,7 @@ campos vazios — e também o fluxo de logout.
 
 ---
 
-## C02-CT03 — Login com usuário não cadastrado
+## C02-CT03 - Login com usuário não cadastrado
 
 | Campo | Detalhe |
 |-------|---------|
@@ -99,7 +99,7 @@ campos vazios — e também o fluxo de logout.
 
 ---
 
-## C02-CT04 — Login com campos vazios
+## C02-CT04 - Login com campos vazios
 
 | Campo | Detalhe |
 |-------|---------|
@@ -128,7 +128,7 @@ campos vazios — e também o fluxo de logout.
 
 ---
 
-## C02-CT05 — Logout
+## C02-CT05 - Logout
 
 | Campo | Detalhe |
 |-------|---------|
