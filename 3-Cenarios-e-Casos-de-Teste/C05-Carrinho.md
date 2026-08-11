@@ -172,6 +172,6 @@ comportamento do carrinho para usuários não logados.
 |-------|---------|
 | **Critérios de aceitação** | O sistema deve permitir adicionar ao carrinho sem login, conforme mapeado nos requisitos |
 | **Resultado esperado** | Produto visível no carrinho sem necessidade de autenticação |
-| **Resultado real** | (preencher durante a execução) |
-| **Evidência** | (inserir print ou GIF após execução) |
-| **Status** | ⏳ Não executado |
+| **Resultado real** | Produto Nexus 6 adicionado e visível no carrinho sem necessidade de login, conforme esperado |
+| **Evidência** | [C05-CT01-produto-no-carrinho.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C05-Carrinho/C05-CT01-produto-no-carrinho.png) |
+| **Status** | ✅ Aprovado |
