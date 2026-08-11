@@ -57,10 +57,9 @@ acessar a página funcionam como esperado.
 |-------|---------|
 | **Critérios de aceitação** | A página de detalhes do produto clicado deve ser aberta corretamente |
 | **Resultado esperado** | Redirecionamento para a página de detalhes do produto |
-| **Resultado real** | (preencher durante a execução) |
-| **Evidência** | (inserir print ou GIF após execução) |
-| **Status** | ⏳ Não executado |
-
+| **Resultado real** | Redirecionamento para a página de detalhes do Nokia Lumia 1520 realizado com sucesso ao clicar na foto |
+| **Evidência** | [C04-CT02-acesso-pela-foto.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C04-Pagina-do-Produto/C04-CT02-acesso-pela-foto.png) |
+| **Status** | ✅ Aprovado |
 ---
 
 ## C04-CT03 - Verificar informações exibidas na página do produto
