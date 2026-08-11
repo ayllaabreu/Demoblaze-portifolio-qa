@@ -1,4 +1,4 @@
-# Cenário 04 — Página do Produto
+# Cenário 04 - Página do Produto
 
 **Descrição:** Esse módulo valida o comportamento da página 
 de detalhes de um produto. Verifiquei se as informações 
@@ -7,7 +7,7 @@ acessar a página funcionam como esperado.
 
 ---
 
-## C04-CT01 — Acessar a página do produto pelo nome
+## C04-CT01 - Acessar a página do produto pelo nome
 
 | Campo | Detalhe |
 |-------|---------|
@@ -35,7 +35,7 @@ acessar a página funcionam como esperado.
 
 ---
 
-## C04-CT02 — Acessar a página do produto pela foto
+## C04-CT02 - Acessar a página do produto pela foto
 
 | Campo | Detalhe |
 |-------|---------|
@@ -63,7 +63,7 @@ acessar a página funcionam como esperado.
 
 ---
 
-## C04-CT03 — Verificar informações exibidas na página do produto
+## C04-CT03 - Verificar informações exibidas na página do produto
 
 | Campo | Detalhe |
 |-------|---------|
@@ -93,7 +93,7 @@ acessar a página funcionam como esperado.
 
 ---
 
-## C04-CT04 — Voltar ao catálogo a partir da página do produto
+## C04-CT04 - Voltar ao catálogo a partir da página do produto
 
 | Campo | Detalhe |
 |-------|---------|
