@@ -115,9 +115,10 @@ filtro realmente exibe apenas os itens da categoria selecionada.
 |-------|---------|
 | **Critérios de aceitação** | Apenas produtos da categoria Monitors devem aparecer após o filtro |
 | **Resultado esperado** | Lista atualizada exibindo somente monitores |
-| **Resultado real** | (preencher durante a execução) |
-| **Evidência** | (inserir print ou GIF após execução) |
-| **Status** | ⏳ Não executado |
+| **Resultado real** | Filtro aplicado corretamente, exibindo apenas produtos da categoria Monitors |
+| **Evidência** | [C03-CT04-filtro-monitors.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C03-Catalogo-e-Filtros/C03-CT04-filtro-monitors.png) |
+| **Status** | ✅ Aprovado |
+
 
 ---
 
