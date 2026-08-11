@@ -1,4 +1,4 @@
-# 🛒 Testes Manuais — DemoBlaze
+# 🛒 Testes Manuais - DemoBlaze
 
 ## Sobre o projeto
 
