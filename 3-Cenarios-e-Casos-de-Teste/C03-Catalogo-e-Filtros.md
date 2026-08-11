@@ -1,4 +1,4 @@
-# Cenário 03 — Catálogo e Filtros
+# Cenário 03 - Catálogo e Filtros
 
 **Descrição:** Esse módulo valida a exibição dos produtos 
 na página inicial e o funcionamento dos filtros por categoria. 
@@ -7,7 +7,7 @@ filtro realmente exibe apenas os itens da categoria selecionada.
 
 ---
 
-## C03-CT01 — Visualizar produtos na página inicial
+## C03-CT01 - Visualizar produtos na página inicial
 
 | Campo | Detalhe |
 |-------|---------|
@@ -35,7 +35,7 @@ filtro realmente exibe apenas os itens da categoria selecionada.
 
 ---
 
-## C03-CT02 — Filtrar produtos por Phones
+## C03-CT02 - Filtrar produtos por Phones
 
 | Campo | Detalhe |
 |-------|---------|
@@ -64,7 +64,7 @@ filtro realmente exibe apenas os itens da categoria selecionada.
 
 ---
 
-## C03-CT03 — Filtrar produtos por Laptops
+## C03-CT03 - Filtrar produtos por Laptops
 
 | Campo | Detalhe |
 |-------|---------|
@@ -92,7 +92,7 @@ filtro realmente exibe apenas os itens da categoria selecionada.
 | **Status** | ✅ Aprovado |
 ---
 
-## C03-CT04 — Filtrar produtos por Monitors
+## C03-CT04 - Filtrar produtos por Monitors
 
 | Campo | Detalhe |
 |-------|---------|
@@ -122,7 +122,7 @@ filtro realmente exibe apenas os itens da categoria selecionada.
 
 ---
 
-## C03-CT05 — Voltar a exibir todos os produtos
+## C03-CT05 - Voltar a exibir todos os produtos
 
 | Campo | Detalhe |
 |-------|---------|
