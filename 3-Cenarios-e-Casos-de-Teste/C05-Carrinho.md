@@ -59,9 +59,9 @@ comportamento do carrinho para usuários não logados.
 |-------|---------|
 | **Critérios de aceitação** | Todos os produtos adicionados devem estar listados no carrinho |
 | **Resultado esperado** | Carrinho exibindo os dois produtos corretamente |
-| **Resultado real** | (preencher durante a execução) |
-| **Evidência** | (inserir print ou GIF após execução) |
-| **Status** | ⏳ Não executado |
+| **Resultado real** | Nexus 6 e iPhone 6 32gb aparecem corretamente no carrinho após adição |
+| **Evidência** | [C05-CT02-CT03-multiplos-produtos-total.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C05-Carrinho/C05-CT02-CT03-multiplos-produtos-total.png) |
+| **Status** | ✅ Aprovado |
 
 ---
 
@@ -87,9 +87,9 @@ comportamento do carrinho para usuários não logados.
 |-------|---------|
 | **Critérios de aceitação** | O total deve refletir corretamente a soma dos preços dos produtos no carrinho |
 | **Resultado esperado** | Total calculado e exibido corretamente |
-| **Resultado real** | (preencher durante a execução) |
-| **Evidência** | (inserir print ou GIF após execução) |
-| **Status** | ⏳ Não executado |
+| **Resultado real** | Total exibido corretamente: Nexus 6 ($650) + iPhone 6 32gb ($790) = $1440 |
+| **Evidência** | [C05-CT02-CT03-multiplos-produtos-total.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C05-Carrinho/C05-CT02-CT03-multiplos-produtos-total.png) |
+| **Status** | ✅ Aprovado |
 
 ---
 
