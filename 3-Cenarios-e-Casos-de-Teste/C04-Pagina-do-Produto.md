@@ -114,6 +114,6 @@ acessar a página funcionam como esperado.
 |-------|---------|
 | **Critérios de aceitação** | A navegação de volta ao catálogo deve funcionar sem erros |
 | **Resultado esperado** | Página inicial carregada corretamente com todos os produtos visíveis |
-| **Resultado real** | (preencher durante a execução) |
-| **Evidência** | (inserir print ou GIF após execução) |
-| **Status** | ⏳ Não executado |
+| **Resultado real** | Redirecionamento para a página inicial realizado com sucesso, lista de produtos visível normalmente |
+| **Evidência** | [C04-CT04-voltar-catalogo.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C04-Pagina-do-Produto/C04-CT04-voltar-catalogo.png) |
+| **Status** | ✅ Aprovado |
