@@ -1,4 +1,4 @@
-# Cenário 06 — Checkout
+# Cenário 06 - Checkout
 
 **Descrição:** Esse módulo valida o fluxo de finalização 
 de compra do DemoBlaze. Testei o caminho completo de um 
@@ -8,7 +8,7 @@ comportamentos mais interessantes costumam aparecer.
 
 ---
 
-## C06-CT01 — Finalizar compra com todos os campos preenchidos
+## C06-CT01 - Finalizar compra com todos os campos preenchidos
 
 | Campo | Detalhe |
 |-------|---------|
@@ -42,7 +42,7 @@ comportamentos mais interessantes costumam aparecer.
 
 ---
 
-## C06-CT02 — Verificar informações exibidas na confirmação do pedido
+## C06-CT02 - Verificar informações exibidas na confirmação do pedido
 
 | Campo | Detalhe |
 |-------|---------|
@@ -71,7 +71,7 @@ comportamentos mais interessantes costumam aparecer.
 
 ---
 
-## C06-CT03 — Tentar finalizar compra sem estar logada
+## C06-CT03 - Tentar finalizar compra sem estar logada
 
 | Campo | Detalhe |
 |-------|---------|
@@ -101,7 +101,7 @@ comportamentos mais interessantes costumam aparecer.
 
 ---
 
-## C06-CT04 — Tentar finalizar compra com campos obrigatórios vazios
+## C06-CT04 - Tentar finalizar compra com campos obrigatórios vazios
 
 | Campo | Detalhe |
 |-------|---------|
@@ -130,7 +130,7 @@ comportamentos mais interessantes costumam aparecer.
 
 ---
 
-## C06-CT05 — Tentar finalizar compra com carrinho vazio
+## C06-CT05 - Tentar finalizar compra com carrinho vazio
 
 | Campo | Detalhe |
 |-------|---------|
