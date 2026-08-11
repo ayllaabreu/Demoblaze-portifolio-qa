@@ -115,9 +115,9 @@ comportamento do carrinho para usuários não logados.
 |-------|---------|
 | **Critérios de aceitação** | O produto removido não deve mais aparecer no carrinho e o total deve ser recalculado |
 | **Resultado esperado** | Produto removido e total atualizado corretamente |
-| **Resultado real** | (preencher durante a execução) |
-| **Evidência** | (inserir print ou GIF após execução) |
-| **Status** | ⏳ Não executado |
+| **Resultado real** | Nexus 6 removido com sucesso. Total atualizado de $1440 para $790 |
+| **Evidência** | [Antes de remover o Nexus](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C05-Carrinho/C05-CT02-CT03-multiplos-produtos-total.png) / [Depois de remover o Nexus](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C05-Carrinho/C05-CT04-remover-produto.png) |
+| **Status** | ✅ Aprovado |
 
 ---
 
