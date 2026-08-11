@@ -29,7 +29,7 @@
 | Campo | Detalhe |
 |-------|---------|
 | **Título** | [Carrinho] Botão "Place Order" permanece visível com carrinho vazio e total não é exibido |
-| **Ambiente** | Chrome 127, Windows 11, demoblaze.com |
+| **Ambiente** | Chrome 151.0.7922.109 (Versão oficial) 64 bits, Windows 11, demoblaze.com |
 | **Módulo** | Carrinho |
 | **Severidade** | 🟡 Média |
 | **Status** | Aberto |
