@@ -86,9 +86,9 @@ acessar a página funcionam como esperado.
 |-------|---------|
 | **Critérios de aceitação** | Nome, foto, descrição, preço e botão "Add to cart" devem estar visíveis e corretos |
 | **Resultado esperado** | Todas as informações do produto exibidas corretamente na página |
-| **Resultado real** | (preencher durante a execução) |
-| **Evidência** | (inserir print ou GIF após execução) |
-| **Status** | ⏳ Não executado |
+| **Resultado real** | Nome, foto, descrição, preço e botão "Add to cart" exibidos corretamente na página do Nokia Lumia 1520 |
+| **Evidência** | [C04-CT02-acesso-pela-foto.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C04-Pagina-do-Produto/C04-CT02-acesso-pela-foto.png) |
+| **Status** | ✅ Aprovado |
 
 ---
 
