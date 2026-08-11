@@ -29,9 +29,9 @@ acessar a página funcionam como esperado.
 |-------|---------|
 | **Critérios de aceitação** | A página de detalhes do produto clicado deve ser aberta corretamente |
 | **Resultado esperado** | Redirecionamento para a página de detalhes do produto |
-| **Resultado real** | (preencher durante a execução) |
-| **Evidência** | (inserir print ou GIF após execução) |
-| **Status** | ⏳ Não executado |
+| **Resultado real** | Redirecionamento para a página de detalhes do Samsung Galaxy S6 realizado com sucesso |
+| **Evidência** | [C04-CT01-acesso-pelo-nome.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C04-Pagina-do-Produto/C04-CT01-acesso-pelo-nome.png) |
+| **Status** | ✅ Aprovado |
 
 ---
 
