@@ -143,6 +143,6 @@ filtro realmente exibe apenas os itens da categoria selecionada.
 |-------|---------|
 | **Critérios de aceitação** | Todos os produtos devem ser exibidos novamente após limpar o filtro |
 | **Resultado esperado** | Lista completa de produtos visível sem filtro aplicado |
-| **Resultado real** | (preencher durante a execução) |
-| **Evidência** | (inserir print ou GIF após execução) |
-| **Status** | ⏳ Não executado |
+| **Resultado real** | Todos os produtos voltaram a ser exibidos corretamente após clicar em "Categories" |
+| **Evidência** | [C03-CT05-todos-produtos.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C03-Catalogo-e-Filtros/C03-CT05-todos-produtos.png) |
+| **Status** | ✅ Aprovado |
