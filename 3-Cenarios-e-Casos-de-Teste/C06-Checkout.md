@@ -36,9 +36,9 @@ comportamentos mais interessantes costumam aparecer.
 |-------|---------|
 | **Critérios de aceitação** | O sistema deve confirmar o pedido e exibir um resumo da compra |
 | **Resultado esperado** | Mensagem de confirmação com os dados do pedido exibida com sucesso |
-| **Resultado real** | (preencher durante a execução) |
-| **Evidência** | (inserir print ou GIF após execução) |
-| **Status** | ⏳ Não executado |
+| **Resultado real** | Compra finalizada com sucesso. Mensagem "Thank you for your purchase!" exibida com ID 7932679, valor $700, nome Aylla e data 12/7/2026 |
+| **Evidência** | [C06-CT01-compra-concluida.png](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT01-compra-concluida.png) |
+| **Status** | ✅ Aprovado |
 
 ---
 
