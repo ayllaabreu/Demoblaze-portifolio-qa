@@ -96,7 +96,7 @@ comportamentos mais interessantes costumam aparecer.
 | **Critérios de aceitação** | O sistema não deve permitir finalizar a compra sem autenticação |
 | **Resultado esperado** | Bloqueio da compra ou redirecionamento para o login |
 | **Resultado real** | Pedido de compra é confirmado sem usuário estar logado - bug registrado como BUG-005 |
-| **Evidência** | [Item no carrinho logado](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT03-1-item-carrinho-sem-login.png) / [Place Order preenchido](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT03-2-place-order-preenchido.png) / [Confirmação do pedido](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT03-3-confirmacao-pedido-sem-login.png)|
+| **Evidência** | [Item no carrinho sem login](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT03-1-item-carrinho-sem-login.png) / [Place Order preenchido](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT03-2-place-order-preenchido.png) / [Confirmação do pedido sem login](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT03-3-confirmacao-pedido-sem-login.png)|
 | **Status** | ❌ Reprovado |
 
 ---
