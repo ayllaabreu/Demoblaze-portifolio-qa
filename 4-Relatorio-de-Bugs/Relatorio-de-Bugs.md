@@ -79,3 +79,33 @@
 | **Resultado Atual** | Data exibida na confirmação mostra mês 7 em vez do mês 08 informado no formulário |
 | **Resultado Esperado** | Data exibida deve corresponder exatamente ao mês informado no formulário |
 | **Evidência** | [Data incorreta na confirmação](link-BUG-003-data-incorreta-confirmacao.png) |
+
+---
+
+### BUG-004
+
+| Campo | Detalhe |
+|-------|---------|
+| **Título** | [Checkout] Campos do formulário "Place Order" permanecem editáveis após confirmação da compra |
+| **Ambiente** | Chrome 151.0.7922.109 (64 bits), Windows 11, demoblaze.com |
+| **Módulo** | Checkout |
+| **Severidade** | 🟡 Média |
+| **Status** | Aberto |
+
+**Passos para Reproduzir:**
+
+| # | Passo |
+|---|-------|
+| 1 | Acessar demoblaze.com e fazer login |
+| 2 | Adicionar um produto ao carrinho |
+| 3 | Clicar em "Place Order" e preencher todos os campos |
+| 4 | Clicar em "Purchase" |
+| 5 | Observar que o popup de confirmação abre |
+| 6 | Observar os campos do formulário visíveis atrás do popup |
+
+| Campo | Detalhe |
+|-------|---------|
+| **Resultado Atual** | Os campos "Name" e "Year" do formulário permanecem visíveis e editáveis atrás do popup de confirmação da compra |
+| **Resultado Esperado** | Após a confirmação da compra o formulário deve ser bloqueado ou ocultado completamente |
+| **Evidência** | [Campos editáveis após confirmação](link-BUG-004-campos-editaveis-apos-confirmacao.png) |
+
