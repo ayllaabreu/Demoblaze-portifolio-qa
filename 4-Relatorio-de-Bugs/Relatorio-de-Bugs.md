@@ -50,3 +50,32 @@
 | **Resultado Esperado** | Sistema deve exibir mensagem informando que o carrinho está vazio e desabilitar ou ocultar o botão "Place Order" |
 | **Evidência** | [Carrinho vazio sem total](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C05-Carrinho/C05-CT05-carrinho-vazio.png) / [Formulário aberto sem produtos](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C05-Carrinho/C05-CT05-place-order-carrinho-vazio.png) |
 
+---
+
+### BUG-003
+
+| Campo | Detalhe |
+|-------|---------|
+| **Título** | [Checkout] Data exibida na confirmação do pedido não corresponde ao mês informado no formulário |
+| **Ambiente** | Chrome 151.0.7922.109 (64 bits), Windows 11, demoblaze.com |
+| **Módulo** | Checkout |
+| **Severidade** | 🔴 Alta |
+| **Status** | Aberto |
+
+**Passos para Reproduzir:**
+
+| # | Passo |
+|---|-------|
+| 1 | Acessar demoblaze.com e fazer login |
+| 2 | Adicionar um produto ao carrinho |
+| 3 | Clicar em "Place Order" |
+| 4 | Preencher o campo "Month" com "08" |
+| 5 | Preencher os demais campos corretamente |
+| 6 | Clicar em "Purchase" |
+| 7 | Observar a data exibida na confirmação |
+
+| Campo | Detalhe |
+|-------|---------|
+| **Resultado Atual** | Data exibida na confirmação mostra mês 7 em vez do mês 08 informado no formulário |
+| **Resultado Esperado** | Data exibida deve corresponder exatamente ao mês informado no formulário |
+| **Evidência** | [Data incorreta na confirmação](link-BUG-003-data-incorreta-confirmacao.png) |
