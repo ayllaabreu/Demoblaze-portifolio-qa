@@ -65,7 +65,7 @@ comportamentos mais interessantes costumam aparecer.
 |-------|---------|
 | **Critérios de aceitação** | A confirmação deve exibir pelo menos o valor total e o nome do comprador |
 | **Resultado esperado** | Dados do pedido exibidos corretamente na tela de confirmação |
-| **Resultado real** | Confirmação exibe ID, valor e nome corretamente, porém a data apresenta mês incorreto — bug registrado como BUG-003 |
+| **Resultado real** | Confirmação exibe ID, valor e nome corretamente, porém a data apresenta mês incorreto - bug registrado como BUG-003 |
 | **Evidência** | [Item no carrinho logado](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT02-1-item-carrinho-logado.png) / [Place Order preenchido](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT02-2-place-order-preenchido.png) / [Confirmação do pedido](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT02-3-confirmacao-pedido.png)|
 | **Status** | ❌ Reprovado |
 
@@ -95,9 +95,9 @@ comportamentos mais interessantes costumam aparecer.
 |-------|---------|
 | **Critérios de aceitação** | O sistema não deve permitir finalizar a compra sem autenticação |
 | **Resultado esperado** | Bloqueio da compra ou redirecionamento para o login |
-| **Resultado real** | (preencher durante a execução) |
-| **Evidência** | (inserir print ou GIF após execução) |
-| **Status** | ⏳ Não executado |
+| **Resultado real** | Pedido de compra é confirmado sem usuário estar logado - bug registrado como BUG-005 |
+| **Evidência** | [Item no carrinho logado](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT03-1-item-carrinho-sem-login.png) / [Place Order preenchido](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT03-2-place-order-preenchido.png) / [Confirmação do pedido](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT03-3-confirmacao-pedido-sem-login.png)|
+| **Status** | ❌ Reprovado |
 
 ---
 
