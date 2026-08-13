@@ -66,7 +66,7 @@ comportamentos mais interessantes costumam aparecer.
 | **Critérios de aceitação** | A confirmação deve exibir pelo menos o valor total e o nome do comprador |
 | **Resultado esperado** | Dados do pedido exibidos corretamente na tela de confirmação |
 | **Resultado real** | Confirmação exibe ID, valor e nome corretamente, porém a data apresenta mês incorreto — bug registrado como BUG-003 |
-| **Evidência** | |
+| **Evidência** | [Item no carrinho logado](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT02-1-item-carrinho-logado.png) / [Place Order preenchido](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT02-2-place-order-preenchido.png) / [Confirmação do pedido](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT02-3-confirmacao-pedido.png)|
 | **Status** | ❌ Reprovado |
 
 ---
