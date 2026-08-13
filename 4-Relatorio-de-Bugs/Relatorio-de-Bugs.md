@@ -115,7 +115,7 @@
 
 | Campo | Detalhe |
 |-------|---------|
-| **Título** | [Checkout] Usuário concluí compra sem estar logado |
+| **Título** | [Checkout] Usuário conclui compra sem estar logado |
 | **Ambiente** | Chrome 151.0.7922.109 (64 bits), Windows 11, demoblaze.com |
 | **Módulo** | Checkout |
 | **Severidade** | 🔴 Alta |
@@ -125,14 +125,15 @@
 
 | # | Passo |
 |---|-------|
-| 1 | Acessar demoblaze.com |
+| 1 | Acessar demoblaze.com sem fazer login |
 | 2 | Adicionar um produto ao carrinho |
-| 3 | Clicar em "Place Order" e preencher todos os campos |
-| 4 | Clicar em "Purchase" |
-| 5 | Observar que o popup de confirmação abre |
+| 3 | Acessar o carrinho e clicar em "Place Order" |
+| 4 | Preencher todos os campos do formulário |
+| 5 | Clicar em "Purchase" |
+| 6 | Observar que a compra é confirmada sem autenticação |
 
 | Campo | Detalhe |
 |-------|---------|
 | **Resultado Atual** | Pedido de compra é confirmado sem o usuário estar logado na plataforma |
-| **Resultado Esperado** | Bloqueio da compra ou redirecionamento para o login |
+| **Resultado Esperado** | Bloqueio da compra exibindo mensagem "usuário deve estar logado para concluir a compra" ou redirecionamento para o login |
 | **Evidência** | [Item no carrinho sem login](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT03-1-item-carrinho-sem-login.png) / [Place Order preenchido](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT03-2-place-order-preenchido.png) / [Confirmação do pedido sem login](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT03-3-confirmacao-pedido-sem-login.png)|
