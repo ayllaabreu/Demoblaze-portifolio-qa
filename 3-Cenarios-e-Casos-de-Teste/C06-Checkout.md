@@ -65,9 +65,9 @@ comportamentos mais interessantes costumam aparecer.
 |-------|---------|
 | **Critérios de aceitação** | A confirmação deve exibir pelo menos o valor total e o nome do comprador |
 | **Resultado esperado** | Dados do pedido exibidos corretamente na tela de confirmação |
-| **Resultado real** | (preencher durante a execução) |
-| **Evidência** | (inserir print ou GIF após execução) |
-| **Status** | ⏳ Não executado |
+| **Resultado real** | Confirmação exibe ID, valor e nome corretamente, porém a data apresenta mês incorreto — bug registrado como BUG-003 |
+| **Evidência** | |
+| **Status** | ❌ Reprovado |
 
 ---
 
