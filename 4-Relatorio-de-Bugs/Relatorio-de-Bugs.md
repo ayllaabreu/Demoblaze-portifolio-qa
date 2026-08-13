@@ -109,3 +109,30 @@
 | **Resultado Esperado** | Após a confirmação da compra o formulário deve ser bloqueado ou ocultado completamente |
 | **Evidência** | [Item no carrinho logado](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT02-1-item-carrinho-logado.png) / [Place Order preenchido](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT02-2-place-order-preenchido.png) / [Confirmação do pedido](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT02-3-confirmacao-pedido.png)|
 
+---
+
+### BUG-005
+
+| Campo | Detalhe |
+|-------|---------|
+| **Título** | [Checkout] Usuário concluí compra sem estar logado |
+| **Ambiente** | Chrome 151.0.7922.109 (64 bits), Windows 11, demoblaze.com |
+| **Módulo** | Checkout |
+| **Severidade** | 🔴 Alta |
+| **Status** | Aberto |
+
+**Passos para Reproduzir:**
+
+| # | Passo |
+|---|-------|
+| 1 | Acessar demoblaze.com |
+| 2 | Adicionar um produto ao carrinho |
+| 3 | Clicar em "Place Order" e preencher todos os campos |
+| 4 | Clicar em "Purchase" |
+| 5 | Observar que o popup de confirmação abre |
+
+| Campo | Detalhe |
+|-------|---------|
+| **Resultado Atual** | Pedido de compra é confirmado sem o usuário estar logado na plataforma |
+| **Resultado Esperado** | Bloqueio da compra ou redirecionamento para o login |
+| **Evidência** | [Item no carrinho logado](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT02-1-item-carrinho-logado.png) / [Place Order preenchido](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT02-2-place-order-preenchido.png) / [Confirmação do pedido](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT02-3-confirmacao-pedido.png)|
