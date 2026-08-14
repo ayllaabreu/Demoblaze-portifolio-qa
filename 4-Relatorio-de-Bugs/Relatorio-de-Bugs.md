@@ -105,7 +105,7 @@
 
 | Campo | Detalhe |
 |-------|---------|
-| **Resultado Atual** | Os campos "Name" e "Year" do formulário permanecem visíveis e editáveis atrás do popup de confirmação da compra |
+| **Resultado Atual** | Os campos "Name" e "Year" do formulário permanecem visíveis e editáveis atrás do popup de confirmação da compra, independente de o usuário estar logado ou não |
 | **Resultado Esperado** | Após a confirmação da compra o formulário deve ser bloqueado ou ocultado completamente |
 | **Evidência** | [Item no carrinho logado](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT02-1-item-carrinho-logado.png) / [Place Order preenchido](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT02-2-place-order-preenchido.png) / [Confirmação do pedido](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT02-3-confirmacao-pedido.png)|
 
