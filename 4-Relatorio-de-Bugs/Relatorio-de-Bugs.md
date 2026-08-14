@@ -164,6 +164,4 @@
 |-------|---------|
 | **Resultado Atual** | Place order abre normalmente sem nenhum item e ao preencher os campos e clicar em "Purchase" a compra é concluída com sucesso |
 | **Resultado Esperado** | Aviso de carrinho vazio ou botão "Place Order" desabilitado |
-
-
 | **Evidência** | [Carrinho vazio](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT05-1-carrinho-vazio.png) / [Place Order aberto sem item no carrinho](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT05-2-place-order-sem-item.png) / [Compra concluída sem item](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT05-3-confirmacao-sem-item.png) |
