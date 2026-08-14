@@ -137,3 +137,33 @@
 | **Resultado Atual** | Pedido de compra é confirmado sem o usuário estar logado na plataforma |
 | **Resultado Esperado** | Bloqueio da compra exibindo mensagem "usuário deve estar logado para concluir a compra" ou redirecionamento para o login |
 | **Evidência** | [Item no carrinho sem login](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT03-1-item-carrinho-sem-login.png) / [Place Order preenchido](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT03-2-place-order-preenchido.png) / [Confirmação do pedido sem login](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT03-3-confirmacao-pedido-sem-login.png)|
+
+---
+
+### BUG-006
+
+| Campo | Detalhe |
+|-------|---------|
+| **Título** | [Checkout] Usuário conclui compra sem nenhum item no carrinho |
+| **Ambiente** | Chrome 151.0.7922.109 (64 bits), Windows 11, demoblaze.com |
+| **Módulo** | Checkout |
+| **Severidade** | 🟡 Média |
+| **Status** | Aberto |
+
+**Passos para Reproduzir:**
+
+| # | Passo |
+|---|-------|
+| 1 | Acessar demoblaze.com e faça login |
+| 2 | Acessar o carrinho e clicar em "Place Order" |
+| 3 | Preencher todos os campos do formulário |
+| 4 | Clicar em "Purchase" |
+| 5 | Observar que a compra é confirmada sem nenhum item no carrinho |
+
+| Campo | Detalhe |
+|-------|---------|
+| **Resultado Atual** | Place order abre normalmente sem nenhum item e ao preencher os campos e clicar em "Purchase" a compra é concluída com sucesso |
+| **Resultado Esperado** | Aviso de carrinho vazio ou botão "Place Order" desabilitado |
+
+
+| **Evidência** | [Carrinho vazio](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT05-1-carrinho-vazio.png) / [Place Order aberto sem item no carrinho](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT05-2-place-order-sem-item.png) / [Compra concluída sem item](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT05-3-confirmacao-sem-item.png) |
