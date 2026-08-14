@@ -124,7 +124,7 @@ comportamentos mais interessantes costumam aparecer.
 |-------|---------|
 | **Critérios de aceitação** | O sistema deve bloquear a compra e indicar quais campos precisam ser preenchidos |
 | **Resultado esperado** | Alerta de campo obrigatório exibido antes de concluir a compra |
-| **Resultado real** | Sistema bloqueia a compra e exibe a mensagem de campos obrigatórios "Please fill out Name and Creditcard" |
+| **Resultado real** | Ao clicar em "Purchase", o sistema exibe o alerta "Please fill out Name and Creditcard." e não apresenta confirmação de compra. |
 | **Evidência** | [Item carrinho logado](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT04-1-item-carrinho-logado.png) / [Mensagem de campos obrigatórios](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT04-2-erro-confirmacao.png) |
 | **Status** | ✅ Aprovado |
 
