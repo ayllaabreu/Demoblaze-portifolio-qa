@@ -3,8 +3,7 @@
 **Descrição:** Esse módulo valida o fluxo de finalização 
 de compra do DemoBlaze. Testei o caminho completo de um 
 pedido bem-sucedido e também situações como campos vazios 
-e tentativa de compra sem estar logada — que é onde os 
-comportamentos mais interessantes costumam aparecer.
+e tentativa de compra sem estar logada.
 
 ---
 
