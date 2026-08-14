@@ -152,6 +152,6 @@ e tentativa de compra sem estar logada.
 |-------|---------|
 | **Critérios de aceitação** | O sistema não deve permitir finalizar uma compra sem produtos no carrinho |
 | **Resultado esperado** | Aviso de carrinho vazio ou botão desabilitado |
-| **Resultado real** | Place order abre normalmente e ao preencher os campos e clicar em "Purchase" a compra é concluída com sucesso |
-| **Evidência** | (inserir print ou GIF após execução) |
+| **Resultado real** | Place order abre normalmente e ao preencher os campos e clicar em "Purchase" a compra é concluída com sucesso - bug registrado como BUG-006 |
+| **Evidência** | [Carrinho vazio](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT05-1-carrinho-vazio.png) / [Place Order aberto sem item no carrinho](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT05-2-place-order-sem-item.png) / [Compra concluída sem item](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT05-3-confirmacao-sem-item.png) |
 | **Status** | ❌ Reprovado |
