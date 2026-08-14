@@ -152,6 +152,6 @@ e tentativa de compra sem estar logada.
 |-------|---------|
 | **Critérios de aceitação** | O sistema não deve permitir finalizar uma compra sem produtos no carrinho |
 | **Resultado esperado** | Aviso de carrinho vazio ou botão desabilitado |
-| **Resultado real** | (preencher durante a execução) |
+| **Resultado real** | Place order abre normalmente e ao preencher os campos e clicar em "Purchase" a compra é concluída com sucesso |
 | **Evidência** | (inserir print ou GIF após execução) |
-| **Status** | ⏳ Não executado |
+| **Status** | ❌ Reprovado |
