@@ -61,9 +61,9 @@ correto.
 |-------|---------|
 | **Critérios de aceitação** | O sistema deve bloquear o envio e indicar os campos obrigatórios |
 | **Resultado esperado** | Alerta de campo obrigatório exibido antes do envio |
-| **Resultado real** | (preencher durante a execução) |
-| **Evidência** | (inserir print ou GIF após execução) |
-| **Status** | ⏳ Não executado |
+| **Resultado real** | Sistema exibiu "Thanks for the message!!" mesmo com todos os campos vazios, sem validar os campos obrigatórios — bug registrado como BUG-007 |
+| **Evidência** | [Mensagem enviada com campos vazios](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C07-Formulario-de-Contato/C07-CT02-mensagem-campos-vazios.png) |
+| **Status** | ❌ Reprovado |
 
 ---
 
