@@ -220,3 +220,32 @@
 | **Resultado Atual** | Sistema aceita o e-mail inválido e exibe "Thanks for the message!!" sem validar o formato |
 | **Resultado Esperado** | Sistema deve bloquear o envio e exibir mensagem de erro indicando formato de e-mail inválido |
 | **Evidência** | [Formulário com e-mail inválido](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C07-Formulario-de-Contato/C07-CT03-1-email-invalido-contact.png) / [Mensagem enviada com e-mail inválido](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C07-Formulario-de-Contato/C07-CT03-2-mensagem-enviada-email-invalido.png) |
+
+---
+
+### BUG-009
+
+| Campo | Detalhe |
+|-------|---------|
+| **Título** | [Formulário de Contato] Sistema permite envio de mensagem com campo de mensagem em branco |
+| **Ambiente** | Chrome 151.0.7922.109 (64 bits), Windows 11, demoblaze.com |
+| **Módulo** | Formulário de Contato |
+| **Severidade** | 🟡 Média |
+| **Status** | Aberto |
+
+**Passos para Reproduzir:**
+
+| # | Passo |
+|---|-------|
+| 1 | Acessar demoblaze.com |
+| 2 | Clicar em "Contact" no menu |
+| 3 | Preencher o campo "Contact Email" com um e-mail válido |
+| 4 | Preencher o campo "Contact Name" com um nome |
+| 5 | Deixar o campo "Message" em branco |
+| 6 | Clicar em "Send message" |
+
+| Campo | Detalhe |
+|-------|---------|
+| **Resultado Atual** | Sistema permite que o campo "Message" fique em branco e ao clicar em "Send Message" exibe confirmação de envio |
+| **Resultado Esperado** | Sistema deve bloquear o envio e exibir mensagem de erro indicando campo de mensagem em branco |
+| **Evidência** | [Formulário com campo mensagem em branco](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C07-Formulario-de-Contato/C07-CT04-1-campo-sem-mensagem.png) / [Mensagem enviada com sucesso](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C07-Formulario-de-Contato/C07-CT04-2-mensagem-enviada.png) |
