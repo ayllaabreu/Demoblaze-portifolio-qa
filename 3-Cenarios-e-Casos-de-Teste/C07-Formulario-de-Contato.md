@@ -91,7 +91,7 @@ correto.
 | **Critérios de aceitação** | O sistema deve validar o formato do e-mail e bloquear o envio se estiver inválido |
 | **Resultado esperado** | Mensagem de erro informando que o e-mail está em formato inválido |
 | **Resultado real** | Sistema aceitou e-mail inválido "ayllateste" sem formato @dominio.com e exibiu confirmação de envio — bug registrado como BUG-008 |
-| **Evidência** | [Formulário com e-mail inválido]() / [Mensagem enviada com e-mail inválido]() |
+| **Evidência** | [Formulário com e-mail inválido](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C07-Formulario-de-Contato/C07-CT03-1-email-invalido-contact.png) / [Mensagem enviada com e-mail inválido](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C07-Formulario-de-Contato/C07-CT03-2-mensagem-enviada-email-invalido.png) |
 | **Status** | ❌ Reprovado |
 
 ---
