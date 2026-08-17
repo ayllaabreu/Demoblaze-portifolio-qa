@@ -165,3 +165,58 @@
 | **Resultado Atual** | Place order abre normalmente sem nenhum item e ao preencher os campos e clicar em "Purchase" a compra é concluída com sucesso |
 | **Resultado Esperado** | Aviso de carrinho vazio ou botão "Place Order" desabilitado |
 | **Evidência** | [Carrinho vazio](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT05-1-carrinho-vazio.png) / [Place Order aberto sem item no carrinho](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT05-2-place-order-sem-item.png) / [Compra concluída sem item](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C06-Checkout/C06-CT05-3-confirmacao-sem-item.png) |
+
+---
+
+### BUG-007
+
+| Campo | Detalhe |
+|-------|---------|
+| **Título** | [Formulário de Contato] Sistema permite envio de mensagem com todos os campos vazios |
+| **Ambiente** | Chrome 151.0.7922.109 (64 bits), Windows 11, demoblaze.com |
+| **Módulo** | Formulário de Contato |
+| **Severidade** | 🔴 Alta |
+| **Status** | Aberto |
+
+**Passos para Reproduzir:**
+
+| # | Passo |
+|---|-------|
+| 1 | Acessar demoblaze.com |
+| 2 | Clicar em "Contact" no menu |
+| 3 | Deixar todos os campos em branco |
+| 4 | Clicar em "Send message" |
+
+| Campo | Detalhe |
+|-------|---------|
+| **Resultado Atual** | Sistema exibe "Thanks for the message!!" sem validar os campos obrigatórios |
+| **Resultado Esperado** | Sistema deve bloquear o envio e exibir mensagem de erro indicando campos obrigatórios |
+| **Evidência** | [Mensagem enviada com campos vazios](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C07-Formulario-de-Contato/C07-CT02-mensagem-campos-vazios.png) |
+
+---
+
+### BUG-008
+
+| Campo | Detalhe |
+|-------|---------|
+| **Título** | [Formulário de Contato] Sistema aceita e-mail inválido sem formato @dominio.com |
+| **Ambiente** | Chrome 151.0.7922.109 (64 bits), Windows 11, demoblaze.com |
+| **Módulo** | Formulário de Contato |
+| **Severidade** | 🟡 Média |
+| **Status** | Aberto |
+
+**Passos para Reproduzir:**
+
+| # | Passo |
+|---|-------|
+| 1 | Acessar demoblaze.com |
+| 2 | Clicar em "Contact" no menu |
+| 3 | Preencher o campo "Contact Email" com "ayllateste" |
+| 4 | Preencher os campos "Contact Name" e "Message" corretamente |
+| 5 | Clicar em "Send message" |
+
+| Campo | Detalhe |
+|-------|---------|
+| **Resultado Atual** | Sistema aceita o e-mail inválido e exibe "Thanks for the message!!" sem validar o formato |
+| **Resultado Esperado** | Sistema deve bloquear o envio e exibir mensagem de erro indicando formato de e-mail inválido |
+| **Evidência** | [Formulário com e-mail inválido](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C07-Formulario-de-Contato/C07-CT03-1-email-invalido-contact.png) / [Mensagem enviada com e-mail inválido](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C07-Formulario-de-Contato/C07-CT03-2-mensagem-enviada-email-invalido.png) |
