@@ -34,7 +34,7 @@ correto.
 | **Critérios de aceitação** | O sistema deve confirmar o envio da mensagem após o clique em "Send message" |
 | **Resultado esperado** | Mensagem de confirmação de envio exibida com sucesso |
 | **Resultado real** | Mensagem de confirmação "Thanks for the mmessage!!" exibida com sucesso |
-| **Evidência** | [Mensagem enviada)](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C07-Formulario-de-Contato/C07-CT01-mensagem-enviada.png) |
+| **Evidência** | [Mensagem enviada](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C07-Formulario-de-Contato/C07-CT01-mensagem-enviada.png) |
 | **Status** | ⏳ Aprovado |
 
 ---
