@@ -149,6 +149,6 @@ correto.
 |-------|---------|
 | **Critérios de aceitação** | O formulário deve fechar sem erros e a página deve continuar funcionando normalmente |
 | **Resultado esperado** | Formulário fechado e página inicial acessível sem erros |
-| **Resultado real** | (preencher durante a execução) |
+| **Resultado real** | Formulário fechado e página inicial acessível sem erros |
 | **Evidência** | (inserir print ou GIF após execução) |
-| **Status** | ⏳ Não executado |
+| **Status** | ✅ Aprovado |
