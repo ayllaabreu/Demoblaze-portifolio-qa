@@ -35,7 +35,7 @@ correto.
 | **Resultado esperado** | Mensagem de confirmação de envio exibida com sucesso |
 | **Resultado real** | Mensagem de confirmação "Thanks for the mmessage!!" exibida com sucesso |
 | **Evidência** | [Mensagem enviada](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C07-Formulario-de-Contato/C07-CT01-mensagem-enviada.png) |
-| **Status** | ⏳ Aprovado |
+| **Status** | ✅ Aprovado |
 
 ---
 
