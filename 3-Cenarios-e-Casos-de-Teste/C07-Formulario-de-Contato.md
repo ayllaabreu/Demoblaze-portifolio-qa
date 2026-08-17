@@ -120,7 +120,7 @@ correto.
 |-------|---------|
 | **Critérios de aceitação** | O sistema deve bloquear o envio quando o campo mensagem estiver vazio |
 | **Resultado esperado** | Alerta indicando que o campo mensagem é obrigatório |
-| **Resultado real** | Sistema permitiu que o campo "Mensagem" ficasse em branco e ao clicar em "Send Message" exibiu confirmação de envio — bug registrado como BUG-009 |
+| **Resultado real** | Sistema permitiu que o campo "Message" ficasse em branco e ao clicar em "Send Message" exibiu confirmação de envio — bug registrado como BUG-009 |
 | **Evidência** | [Formulário com campo mensagem em branco](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C07-Formulario-de-Contato/C07-CT04-1-campo-sem-mensagem.png) / [Mensagem enviada com sucesso](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C07-Formulario-de-Contato/C07-CT04-2-mensagem-enviada.png) |
 | **Status** | ❌ Reprovado |
 
