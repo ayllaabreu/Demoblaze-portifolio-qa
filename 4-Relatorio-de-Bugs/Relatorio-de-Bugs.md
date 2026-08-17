@@ -147,7 +147,7 @@
 | **Título** | [Checkout] Usuário conclui compra sem nenhum item no carrinho |
 | **Ambiente** | Chrome 151.0.7922.109 (64 bits), Windows 11, demoblaze.com |
 | **Módulo** | Checkout |
-| **Severidade** | 🟡 Média |
+| **Severidade** | 🔴 Alta |
 | **Status** | Aberto |
 
 **Passos para Reproduzir:**
