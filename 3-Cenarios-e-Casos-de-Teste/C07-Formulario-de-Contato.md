@@ -33,9 +33,9 @@ correto.
 |-------|---------|
 | **Critérios de aceitação** | O sistema deve confirmar o envio da mensagem após o clique em "Send message" |
 | **Resultado esperado** | Mensagem de confirmação de envio exibida com sucesso |
-| **Resultado real** | (preencher durante a execução) |
+| **Resultado real** | Mensagem de confirmação "Thanks for the mmessage!!" exibida com sucesso |
 | **Evidência** | (inserir print ou GIF após execução) |
-| **Status** | ⏳ Não executado |
+| **Status** | ⏳ Aprovado |
 
 ---
 
