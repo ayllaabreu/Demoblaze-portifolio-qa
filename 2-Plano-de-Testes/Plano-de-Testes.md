@@ -95,5 +95,6 @@ para os cenários negativos:
 | Ferramenta | Para quê |
 |-----------|---------|
 | Google Chrome | Executar os testes |
+| Snipping Tool (Windows) | Captura de evidências em PNG |
 | GitHub | Documentar e versionar o portfólio |
 | Markdown | Escrever toda a documentação |
