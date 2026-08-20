@@ -150,5 +150,5 @@ correto.
 | **Critérios de aceitação** | O formulário deve fechar sem erros e a página deve continuar funcionando normalmente |
 | **Resultado esperado** | Formulário fechado e página inicial acessível sem erros |
 | **Resultado real** | Formulário fechado e página inicial acessível sem erros |
-| **Evidência** | (inserir print ou GIF após execução) |
+| **Evidência** | [Página após preencher formulário e depois fechá-lo](https://github.com/ayllaabreu/Demoblaze-portifolio-qa/blob/main/6-Evidencias/C07-Formulario-de-Contato/C07-CT05-saida-normal-de-contact.png) |
 | **Status** | ✅ Aprovado |
