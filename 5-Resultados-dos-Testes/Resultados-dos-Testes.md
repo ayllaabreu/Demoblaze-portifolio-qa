@@ -1,4 +1,4 @@
-# Resultados dos Testes — DemoBlaze
+# Resultados dos Testes - DemoBlaze
 
 Esse documento apresenta o resumo geral da execução dos
 testes manuais realizados no DemoBlaze. Os dados abaixo
