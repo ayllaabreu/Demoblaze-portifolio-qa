@@ -1,4 +1,4 @@
-# Plano de Testes — DemoBlaze
+# Plano de Testes - DemoBlaze
 
 ## Objetivo
 
