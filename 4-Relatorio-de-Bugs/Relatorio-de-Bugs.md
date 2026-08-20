@@ -239,8 +239,8 @@
 |---|-------|
 | 1 | Acessar demoblaze.com |
 | 2 | Clicar em "Contact" no menu |
-| 3 | Preencher o campo "Contact Email" com um e-mail válido |
-| 4 | Preencher o campo "Contact Name" com um nome |
+| 3 | Preencher o campo "Contact Email" com o email "aylla@email.com" |
+| 4 | Preencher o campo "Contact Name" com meu nome "Aylla" |
 | 5 | Deixar o campo "Message" em branco |
 | 6 | Clicar em "Send message" |
 
