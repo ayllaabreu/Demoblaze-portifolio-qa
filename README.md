@@ -49,7 +49,7 @@ consolidar os resultados.
 | Ferramenta | Uso |
 |-----------|-----|
 | Google Chrome | Execução dos testes |
-| LICEcap | Captura de evidências em GIF |
+| Snipping Tool (Windows) | Captura de evidências em PNG |
 | GitHub | Versionamento e documentação |
 | Markdown | Escrita da documentação |
 
