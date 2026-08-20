@@ -1,4 +1,4 @@
-# Requisitos do Projeto — DemoBlaze
+# Requisitos do Projeto - DemoBlaze
 
 ## Sobre o Sistema
 
