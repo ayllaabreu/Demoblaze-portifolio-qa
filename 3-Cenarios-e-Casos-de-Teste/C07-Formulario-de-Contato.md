@@ -110,8 +110,8 @@ correto.
 | # | Passo |
 |---|-------|
 | 1 | DADO que abri o formulário de contato |
-| 2 | E preencho o campo "Contact Email" com um e-mail válido |
-| 3 | E preencho o campo "Contact Name" com meu nome |
+| 2 | E preencho o campo "Contact Email" com meu email "aylla@email.com" |
+| 3 | E preencho o campo "Contact Name" com meu nome "Aylla" |
 | 4 | E deixo o campo "Message" em branco |
 | 5 | QUANDO clico no botão "Send message" |
 | 6 | ENTÃO o sistema deve me avisar que o campo mensagem precisa ser preenchido |
