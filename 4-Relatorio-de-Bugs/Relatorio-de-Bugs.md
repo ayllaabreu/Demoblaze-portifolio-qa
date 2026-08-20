@@ -154,7 +154,7 @@
 
 | # | Passo |
 |---|-------|
-| 1 | Acessar demoblaze.com e faça login |
+| 1 | Acessar demoblaze.com e fazer login |
 | 2 | Acessar o carrinho e clicar em "Place Order" |
 | 3 | Preencher todos os campos do formulário |
 | 4 | Clicar em "Purchase" |
