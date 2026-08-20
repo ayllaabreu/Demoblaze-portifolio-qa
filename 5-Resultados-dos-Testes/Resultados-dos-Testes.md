@@ -11,7 +11,7 @@ de teste.
 
 | Total de casos de teste | ✅ Aprovados | ❌ Reprovados | 🐛 Bugs encontrados |
 |:-----------------------:|:------------:|:-------------:|:-------------------:|
-| 29 | | | |
+| 33 | 26 | 7 | 9 |
 
 ---
 
@@ -26,7 +26,7 @@ de teste.
 | M05 — Carrinho | 6 | 5 | 1 |
 | M06 — Checkout | 5 | 2 | 3 |
 | M07 — Formulário de Contato | 5 | 2 | 3 |
-| **Total** | **29** | | |
+| **Total** | **33** | 26 | 7 |
 
 ---
 
